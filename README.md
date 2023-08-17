@@ -1,9 +1,13 @@
-### **A fresher Data Analyst who loves to play with code and figures to create amazing stories**
-SQL | Python | Power BI | Machine Learning
+# Data Analyst
+*A fresher Data Analyst who loves to play with code and figures to create amazing stories*
 
-
-
-### **Connect with me on:**
+### Technical Skills
+- SQL: MySQL, PostgreSQL, Google BigQuery
+- Power BI: DAX, Power Query, Data Modeling
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Machine Learning: Supervised Learning
+ 
+### Connect with me
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pth11/)
 
 ![image](https://github.com/thuhuongphan11/thuhuongphan11/assets/141643891/b53c7262-fb7d-454e-9c1b-3a5ee3c1aecc) thuhuongphan11@gmail.com
@@ -29,3 +33,4 @@ SQL | Python | Power BI | Machine Learning
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=vue-dark" />
 </a>  
+
