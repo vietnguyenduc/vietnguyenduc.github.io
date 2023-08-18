@@ -1,7 +1,7 @@
 # Data Analyst
-*A fresher Data Analyst who loves to play with code and figures to create amazing stories*
+*A Business Intelligence who loves to play with code and figures to create amazing stories*
 
-[in/pth11](https://www.linkedin.com/in/pth11/) - thuhuongphan11@gmail.com
+[in/vietnguyenduc-bi](https://www.linkedin.com/in/vietnguyenduc-bi/) - vietnguyenduccp@gmail.com
 
 ### **Technical Skills**
 - SQL: MySQL, PostgreSQL, Google BigQuery
@@ -32,13 +32,13 @@
 </a>  
 
 ### **Education & Certificates**
-**Ho Chi Minh city University of Technology** - Industrial Management (_November 2020_)
+**University of Finance - Marketing** - Business Administration (_July 2018_)
 
 GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
 
-**Data Analyst Coaching 1 on 1 Program** - Unigap (_July 2023_)
+**Data Analyst Coaching 1 on 1 Program** - Unigap (_May 2023_)
 
 Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
 
-[My certificates](https://drive.google.com/drive/folders/16_1Z4JNGYq5xh54CKEUZ7Tja7tMvjwmP?usp=sharing)
+[My certificates]()
 
