@@ -3,13 +3,13 @@
 
 [in/pth11](https://www.linkedin.com/in/pth11/) - thuhuongphan11@gmail.com
 
-### Technical Skills
+### **Technical Skills**
 - SQL: MySQL, PostgreSQL, Google BigQuery
 - Power BI: DAX, Power Query, Data Modeling
 - Python: Pandas, NumPy, MatPlotLib, Seaborn
 - Machine Learning: Supervised Learning
  
-### **Projects for sharing:**
+### **Projects for sharing**
 <a href="https://github.com/pth11/Python_RFM_Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=Python_RFM_Analysis&theme=shadow_blue" />
@@ -30,4 +30,13 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=shadow_blue" />
 </a>  
+
+### **Education & Certifications**
+**Ho Chi Minh city University of Technology** - Industrial Management (_November 2020_)
+
+GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
+
+**Data Analyst Coaching 1 on 1 Program** - Unigap (_July 2023_)
+
+Completed 15 Datacamp courses and finished 8 hands-on projects from beginner to advanced level; Joined problem-solving and design thinking training sessions
 
