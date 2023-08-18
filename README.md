@@ -31,12 +31,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pth11&repo=ML_4G_service_prediction&theme=shadow_blue" />
 </a>  
 
-### **Education & Certifications**
+### **Education & Certificates**
 **Ho Chi Minh city University of Technology** - Industrial Management (_November 2020_)
 
 GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
 
 **Data Analyst Coaching 1 on 1 Program** - Unigap (_July 2023_)
 
-Completed 15 Datacamp courses and finished 8 hands-on projects from beginner to advanced level; Joined problem-solving and design thinking training sessions
+Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
+
+[My certificates](https://drive.google.com/drive/folders/16_1Z4JNGYq5xh54CKEUZ7Tja7tMvjwmP?usp=sharing)
 
